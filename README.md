@@ -32,7 +32,7 @@
   - Hive offline action queuing with automatic synchronization when connectivity is restored.
 
 > 📊 **Looking for the Architectural Diagrams & User Flows?**  
-> Check out the complete [**User Flow Specification & Diagrams (docs/USER_FLOW.md)**](docs/USER_FLOW.md) featuring 10 interactive Mermaid flowcharts, sequence diagrams, and role-based permissions matrix.
+ 
 
 ---
 
@@ -124,16 +124,7 @@ flutter test
 # Run API test suite
 cd ../backend
 pytest test_api.py
-```
-
----
-
-## Documentation
-
-For full architectural flowcharts, sequence diagrams, and screen-by-screen references, see:
-- [Detailed User Flow Specification](docs/USER_FLOW.md)
-- [Architectural Diagrams](docs/diagrams/)
-- [Screen Capture Gallery](docs/screens/)
+ 
 
 ---
 
